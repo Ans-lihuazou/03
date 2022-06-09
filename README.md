@@ -1,10 +1,12 @@
-下载代码
+### 下载代码
+
 ![输入图片说明](image/20220609181945.png)
 ![输入图片说明](image/image.png)
 ![输入图片说明](image/4.png)
 
-补全代码
-```java
+### 补全代码
+
+```kotlin
 // TODO 1: Add class variable TensorFlow Lite Model
         // Initializing the flowerModel by lazy so that it runs in the same thread when the process
         // method is called.
@@ -24,9 +26,10 @@
             } // 输出相似度最高的三个的标签和相似度
 ```
 
+### 效果:
 
-效果:
 **玫瑰:** 
 
 
 ![输入图片说明](image/1.jpg)
+
