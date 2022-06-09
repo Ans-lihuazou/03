@@ -1,3 +1,6 @@
+下载代码
+![输入图片说明](image/20220609181945.png)
+
 补全代码
 ```java
 // TODO 1: Add class variable TensorFlow Lite Model
@@ -18,6 +21,10 @@
                 items.add(Recognition(output.label, output.score))
             } // 输出相似度最高的三个的标签和相似度
 ```
+
+
 效果:
 **玫瑰:** 
+
+
 ![输入图片说明](image/1.jpg)
